@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Tobias Freidling</title>
+    <link>http://localhost:1313/tags/source-themes/</link>
+      <atom:link href="http://localhost:1313/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 29 Oct 2024 09:18:35 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu8711756640465213865.png</url>
+      <title>Source Themes</title>
+      <link>http://localhost:1313/tags/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/publication/sel-rand-inf/</link>
+      <pubDate>Tue, 29 Oct 2024 09:18:35 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sel-rand-inf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

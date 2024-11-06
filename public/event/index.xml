@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Tobias Freidling</title>
+    <link>http://localhost:1313/event/</link>
+      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu8711756640465213865.png</url>
+      <title>Talks</title>
+      <link>http://localhost:1313/event/</link>
+    </image>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/event/2024-gsk-ai/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2024-gsk-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/event/2024-bochum/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2024-bochum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/event/2024-southampton/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2024-southampton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Studies</title>
+      <link>http://localhost:1313/event/2024-acic/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2024-acic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/event/2024-eurocim/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2024-eurocim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Clinical Studies</title>
+      <link>http://localhost:1313/event/2024-rar/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2024-rar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Studies</title>
+      <link>http://localhost:1313/event/2023-chicago/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2023-chicago/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analysis with the R2-Calculus</title>
+      <link>http://localhost:1313/event/2023-oist/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2023-oist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analysis with the R2-Calculus</title>
+      <link>http://localhost:1313/event/2023-ocis/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2023-ocis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analysis with the R2-Calculus</title>
+      <link>http://localhost:1313/event/2023-eurocim/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2023-eurocim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analysis with the R2-Calculus</title>
+      <link>http://localhost:1313/event/2022-acic/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2022-acic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analysis with the R2-Calculus</title>
+      <link>http://localhost:1313/event/2021-gsk-ai/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2021-gsk-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-selection inference with HSIC-Lasso</title>
+      <link>http://localhost:1313/event/2021-icml/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2021-icml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-selection inference with HSIC-Lasso</title>
+      <link>http://localhost:1313/event/2021-riken/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2021-riken/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

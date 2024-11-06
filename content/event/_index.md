@@ -1,10 +1,10 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks
 cms_exclude: true
-#url: talk
+url: talks
 
 # View
-view: card
+view: date-title-summary-tweaked
 
 # Optional cover image (relative to `assets/media/` folder).
 image:

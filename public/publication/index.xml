@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Tobias Freidling</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 29 Oct 2024 09:18:35 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu8711756640465213865.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/publication/sel-rand-inf/</link>
+      <pubDate>Tue, 29 Oct 2024 09:18:35 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sel-rand-inf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based Sensitivity Analysis for Unmeasured Confounding using Partial Correlations</title>
+      <link>http://localhost:1313/publication/r2-sensana/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/r2-sensana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-selection Inference with HSIC-Lasso</title>
+      <link>http://localhost:1313/publication/hsic-lasso-psi/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hsic-lasso-psi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidence in Causal Discovery with Linear Causal Models</title>
+      <link>http://localhost:1313/publication/conf-discovery/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conf-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Uncertainty in Statistical Inference</title>
+      <link>http://localhost:1313/publication/master-thesis/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

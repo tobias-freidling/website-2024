@@ -9,99 +9,86 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography-3-tweaked
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: black
+        text_color_light:
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: animated-shape-4.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications and Pre-Prints
       filters:
         folders:
           - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+        featured_only: false
     design:
       view: citation
   - block: collection
-    id: talks
+    id:
     content:
-      title: Recent & Upcoming Talks
+      title: Featured Talks
       filters:
         folders:
           - event
+        featured_only: true
     design:
-      view: article-grid
+      view: date-title-summary-tweaked
       columns: 1
-  - block: collection
-    id: news
+  - block: markdown
+    id: teaching
     content:
-      title: Recent News
+      title: 'Teaching at the University of Cambridge'
       subtitle: ''
-      text: ''
+      text: |-
+        - Teaching Assistant
+          - Causal Inference (Part III): 2021, 2022
+        - Supervisor
+          - Statistical Modelling (Part II): 2023
+          - Statistics (Part IB): 2023
+          - Mathematics of Machine Learning (Part II): 2022
+#  - block: collection
+#    id: news
+#    content:
+#      title: Recent News
+#      subtitle: ''
+#      text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+#      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+ #     count: 5
       # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+  #    filters:
+  #      author: ""
+  #      category: ""
+  #      tag: ""
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#        publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+#      offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+#      order: desc
+#    design:
       # Choose a layout view
-      view: date-title-summary
+#      view: date-title-summary
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+#      spacing:
+#        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -112,7 +99,7 @@ sections:
         <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
 
         Easily build anything with blocks - no-code required!
-        
+
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started

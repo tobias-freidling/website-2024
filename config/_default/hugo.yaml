@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Tobias Freidling
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://tobias-freidling.onrender.com/'
 
 ############################
 ## LANGUAGE
@@ -53,3 +53,21 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /event/**
+    pager: true
+    editable: true
+    profile: false
+    reading_time: false
+    show_date: false
+    commentable: true
+    show_related: true
+    show_breadcrumb: true
+    share: false
+    header:
+      navbar:
+        enable: false
