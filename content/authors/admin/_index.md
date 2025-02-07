@@ -20,20 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student in Statistics
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Cambridge
-    url: https://www.dpmms.cam.ac.uk/
-  - name: Cantab Capital Institute for the Mathematics of Information
-    url: https://www.ccimi.maths.cam.ac.uk
+  - name: EPFL - Chair of Biostatistics
+    url: https://www.epfl.ch/labs/biostat/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:taf40@cam.ac.uk'
+    url: 'mailto:tobias.freidling@epfl.ch'
     label: E-mail Me
 
   - icon: academicons/cv
@@ -62,6 +60,10 @@ interests:
 
 education:
 
+  - area: PhD Mathematics of Information
+    institution: University of Cambridge
+    year: 2024
+
   - area: M.Sc. Mathematics
     institution: Technical University of Munich
     year: 2020
@@ -82,9 +84,10 @@ education:
 
 ## About Me
 
-I am a PhD student at the University of Cambridge supervised by [Qingyuan Zhao](http://statslab.cam.ac.uk/~qz280/).
-My current research focuses on causal inference, sensitivity analysis and randomization inference.
+I am a postdoctoral researcher at École polytechnique fédérale de Lausanne at the [Chair of Biostatistics](https://www.epfl.ch/labs/biostat/) held by [Mats Stensrud](https://matsjst.github.io/index.html).
 
-Beyond this, I undertook industry projects in the implementation of RNNs with Tensorflow, Bayesian optimal experimental design and detection of synthetically lethal gene pairs based on CRISPR knock-out experiments. I am also a consultant at Cambridge's [Statistics Clinic](https://www.statslab.cam.ac.uk/clinic/).
+I am broadly interested in developing statistical methods to advance data analysis under realistic assumptions, particularly in causal inference.
 
-In 2025, I will join [Mats Stensrud](https://matsjst.github.io/index.html)'s group at EPFL as a postdoctoral researcher.
+Before joining EPFL, I completed my PhD degree at the [Statistical Laboratory](https://www.statslab.cam.ac.uk/) of the University of Cambridge under the supervision of [Qingyuan Zhao](http://statslab.cam.ac.uk/~qz280/) and obtained a Master in Mathematics at TU Munich advised by [Mathias Drton](https://www.math.cit.tum.de/en/math/people/professors/drton-mathias/).
+
+Beyond this, I also undertook industry projects in the implementation of RNNs with Tensorflow, Bayesian optimal experimental design and detection of synthetically lethal gene pairs based on CRISPR knock-out experiments.

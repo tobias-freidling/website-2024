@@ -7,8 +7,8 @@ authors:
 tags:
   - Second Brain
   - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+##image:
+##  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
