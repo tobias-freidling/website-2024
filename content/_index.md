@@ -54,6 +54,8 @@ sections:
       title: 'Teaching at the University of Cambridge'
       subtitle: ''
       text: |-
+        - Summer Graduate Student Project Supervisor
+          - Gianluca Covini (University of Pavia)
         - Teaching Assistant
           - Causal Inference (Part III): 2021, 2022
         - Supervisor

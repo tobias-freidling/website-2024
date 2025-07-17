@@ -25,7 +25,7 @@ tags: []
 
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #links:
 #  - icon: twitter

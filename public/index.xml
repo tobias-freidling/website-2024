@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Optimization-based Sensitivity Analysis</title>
+      <link>http://localhost:1313/event/2025-iisa/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-iisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/event/2025-novartis/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-novartis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/event/2025-icors/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-icors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tech-Checklist for PhD students in Statistics</title>
       <link>http://localhost:1313/post/phd-comp-checklist/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
@@ -476,7 +500,7 @@
 
 
 
-&lt;div id=&#34;chart-796358214&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-679832154&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -494,7 +518,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-796358214&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-679832154&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

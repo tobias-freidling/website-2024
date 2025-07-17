@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/event/2025-iisa/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/talks/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/event/2025-novartis/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/event/2025-icors/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -35,10 +51,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/event/2024-gsk-ai/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/talks/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
