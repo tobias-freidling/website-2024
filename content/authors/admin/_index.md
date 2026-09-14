@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
 
   - icon: academicons/cv
-    url: uploads/cv-freidling.pdf
+    url: uploads/cv-freidling-0826.pdf
 
   - icon: academicons/google-scholar
     url:  https://scholar.google.com/citations?user=ek2xg6wAAAAJ
@@ -54,7 +54,6 @@ interests:
   - Causality
   - Sensitivity Analysis
   - Randomization Inference
-  - Stochastic Optimization
   - Selective Inference
   - Applied Statistics
 
@@ -84,7 +83,7 @@ education:
 
 ## About Me
 
-I am a postdoctoral researcher at École polytechnique fédérale de Lausanne at the [Chair of Biostatistics](https://www.epfl.ch/labs/biostat/) held by [Mats Stensrud](https://matsjst.github.io/index.html).
+I am a postdoctoral researcher at École Polytechnique Fédérale de Lausanne at the [Chair of Biostatistics](https://www.epfl.ch/labs/biostat/) held by [Mats Stensrud](https://matsjst.github.io/index.html).
 
 I am broadly interested in developing statistical methods to advance data analysis under realistic assumptions, particularly in causal inference.
 

@@ -25,7 +25,7 @@ tags: []
 
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 #links:
 #  - icon: twitter
@@ -33,7 +33,7 @@ featured: false
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code:
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1093/jrsssb/qkag081'
 url_poster: ''
 url_slides: ''
 url_video: ''

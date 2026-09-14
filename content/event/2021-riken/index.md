@@ -25,7 +25,7 @@ tags: []
 
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #links:
 #  - icon: twitter
@@ -33,9 +33,9 @@ featured: true
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code:
-url_pdf: ''
-url_poster: 'event/2021-icml/icml-poster-2575.pdf'
-url_slides: 'event/2021-icml/icml-slides-long.pdf'
+url_pdf: 'http://proceedings.mlr.press/v139/freidling21a/freidling21a.pdf'
+url_poster: ''
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).

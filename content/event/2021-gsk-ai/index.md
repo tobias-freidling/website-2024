@@ -33,9 +33,9 @@ featured: false
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code:
-url_pdf: ''
-url_poster: 'event/2021-gsk-ai/poster.pdf'
-url_slides: 'event/2021-gsk-ai/gsk.ai-presentation-freidling.pdf'
+url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2573156'
+url_poster: ''
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).

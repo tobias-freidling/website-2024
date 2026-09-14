@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/source-themes/</link>
       <atom:link href="http://localhost:1313/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 29 Oct 2024 09:18:35 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu8711756640465213865.png</url>
       <title>Source Themes</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Counterfactual Optimization of Policy Interventions: Lexical Ordering and Leapfrogging</title>
+      <link>http://localhost:1313/publication/opt-harm/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/opt-harm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selective Randomization Inference for Adaptive Experiments</title>
       <link>http://localhost:1313/publication/sel-rand-inf/</link>
-      <pubDate>Tue, 29 Oct 2024 09:18:35 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/sel-rand-inf/</guid>
       <description></description>
     </item>

@@ -13,6 +13,78 @@
     </image>
     
     <item>
+      <title>Selective Inference in Adaptive Trials</title>
+      <link>http://localhost:1313/event/2026-rss/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2026-rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cornfield Condition and Principle: A Critical Appraisal</title>
+      <link>http://localhost:1313/publication/cornfield/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cornfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual Optimization of Policy Interventions: Lexical Ordering and Leapfrogging</title>
+      <link>http://localhost:1313/publication/opt-harm/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/opt-harm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Inference In Adaptive Trials</title>
+      <link>http://localhost:1313/event/2026-ims/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2026-ims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/publication/sel-rand-inf/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sel-rand-inf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomization Inference with Concentration Inequalities</title>
+      <link>http://localhost:1313/event/2026-eurocim/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2026-eurocim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based Sensitivity Analysis for Unmeasured Confounding using Partial Correlations</title>
+      <link>http://localhost:1313/publication/r2-sensana/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/r2-sensana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomization Inference with Concentration Inequalities</title>
+      <link>http://localhost:1313/event/2025-icsds/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-icsds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/event/2025-roes/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-roes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimization-based Sensitivity Analysis</title>
       <link>http://localhost:1313/event/2025-iisa/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
@@ -159,14 +231,6 @@
     
     <item>
       <title>Selective Randomization Inference for Adaptive Experiments</title>
-      <link>http://localhost:1313/publication/sel-rand-inf/</link>
-      <pubDate>Tue, 29 Oct 2024 09:18:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sel-rand-inf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selective Randomization Inference for Adaptive Experiments</title>
       <link>http://localhost:1313/event/2024-gsk-ai/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/2024-gsk-ai/</guid>
@@ -218,14 +282,6 @@
       <link>http://localhost:1313/event/2024-rar/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/2024-rar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization-based Sensitivity Analysis for Unmeasured Confounding using Partial Correlations</title>
-      <link>http://localhost:1313/publication/r2-sensana/</link>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/r2-sensana/</guid>
       <description></description>
     </item>
     
@@ -500,7 +556,7 @@
 
 
 
-&lt;div id=&#34;chart-679832154&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-671258934&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -518,7 +574,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-679832154&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-671258934&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -972,14 +1028,6 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/publication/conf-discovery/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/conf-discovery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Uncertainty in Statistical Inference</title>
-      <link>http://localhost:1313/publication/master-thesis/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/master-thesis/</guid>
       <description></description>
     </item>
     

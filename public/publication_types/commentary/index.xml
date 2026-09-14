@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commentary | Tobias Freidling</title>
+    <link>http://localhost:1313/publication_types/commentary/</link>
+      <atom:link href="http://localhost:1313/publication_types/commentary/index.xml" rel="self" type="application/rss+xml" />
+    <description>Commentary</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu8711756640465213865.png</url>
+      <title>Commentary</title>
+      <link>http://localhost:1313/publication_types/commentary/</link>
+    </image>
+    
+    <item>
+      <title>The Cornfield Condition and Principle: A Critical Appraisal</title>
+      <link>http://localhost:1313/publication/cornfield/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cornfield/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

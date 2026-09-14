@@ -25,7 +25,7 @@ tags: []
 
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #links:
 #  - icon: twitter
@@ -33,8 +33,8 @@ featured: true
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code:
-url_pdf: ''
-url_poster: 'event/2023-eurocim/poster-eurocim-freidling.pdf'
+url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2573156'
+url_poster: ''
 url_slides: ''
 url_video: ''
 

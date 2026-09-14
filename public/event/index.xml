@@ -5,12 +5,76 @@
     <link>http://localhost:1313/event/</link>
       <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu8711756640465213865.png</url>
       <title>Talks</title>
       <link>http://localhost:1313/event/</link>
     </image>
+    
+    <item>
+      <title>Optimization-based Sensitivity Analysis</title>
+      <link>http://localhost:1313/event/2025-icsds/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-icsds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based Sensitivity Analysis</title>
+      <link>http://localhost:1313/event/2025-iisa/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-iisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based Sensitivity Analysis</title>
+      <link>http://localhost:1313/event/2025-roes/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-roes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based Sensitivity Analysis</title>
+      <link>http://localhost:1313/event/2026-eurocim/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2026-eurocim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based Sensitivity Analysis</title>
+      <link>http://localhost:1313/event/2026-ims/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2026-ims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based Sensitivity Analysis</title>
+      <link>http://localhost:1313/event/2026-rss/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2026-rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/event/2025-novartis/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-novartis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Randomization Inference for Adaptive Experiments</title>
+      <link>http://localhost:1313/event/2025-icors/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025-icors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Selective Randomization Inference for Adaptive Experiments</title>

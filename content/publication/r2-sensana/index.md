@@ -5,7 +5,7 @@ title: "Optimization-based Sensitivity Analysis for Unmeasured Confounding using
 authors:
 - admin
 - Qingyuan Zhao
-date: 2024-01-18
+date: 2026-02-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Journal of Computational and Graphical Statistics"
 publication_short: ""
 
 abstract: Causal inference necessarily relies upon untestable assumptions; hence, it is crucial to assess the robustness of obtained results to violations of identification assumptions. However, such sensitivity analysis is only occasionally undertaken in practice, as many existing methods only apply to relatively simple models and their results are often difficult to interpret. We take a more flexible approach to sensitivity analysis and view it as a constrained stochastic optimization problem. This work focuses on sensitivity analysis for a linear causal effect when an unmeasured confounder and a potential instrument are present. We show how the bias of the OLS and TSLS estimands can be expressed in terms of partial correlations. Leveraging the algebraic rules that relate different partial correlations, practitioners can specify intuitive sensitivity models which bound the bias. We further show that the heuristic \"plug-in\" sensitivity interval may not have any confidence guarantees; instead, we propose a bootstrap approach to construct sensitivity intervals which perform well in numerical simulations. We illustrate the proposed methods with a real study on the causal effect of education on earnings and provide user-friendly visualization tools.
@@ -38,8 +38,8 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'https://arxiv.org/pdf/2301.00040'
-url_code: 'https://github.com/tobias-freidling/limosa.beta'
+url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2573156'
+url_code: 'https://github.com/tobias-freidling/optsens'
 url_dataset:
 url_poster:
 url_project:

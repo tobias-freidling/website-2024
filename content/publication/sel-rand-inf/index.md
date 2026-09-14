@@ -6,7 +6,7 @@ authors:
 - admin
 - Qingyuan Zhao
 - Zijun Gao
-date: "2024-10-29T09:18:35Z"
+date: "2026-06-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Journal of the Royal Statistical Society: Series B"
 publication_short: ""
 
 abstract: Adaptive experiments use preliminary analyses of the data to inform further course of action and are commonly used in many disciplines including medical and social sciences. Because the null hypothesis and experimental design are not pre-specified, it has long been recognized that statistical inference for adaptive experiments is not straightforward. Most existing methods only apply to specific adaptive designs and rely on strong assumptions. In this work, we propose selective randomization inference as a general framework for analysing adaptive experiments. In a nutshell, our approach applies conditional post-selection inference to randomization tests. By using directed acyclic graphs to describe the data generating process, we derive a selective randomization p-value that controls the selective type-I error without requiring independent and identically distributed data or any other modelling assumptions. We show how rejection sampling and Markov Chain Monte Carlo can be used to compute the selective randomization p-values and construct confidence intervals for a homogeneous treatment effect. To mitigate the risk of disconnected confidence intervals, we propose the use of hold-out units. Lastly, we demonstrate our method and compare it with other randomization tests using synthetic and real-world data.
@@ -39,8 +39,8 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'https://arxiv.org/pdf/2405.07026'
-url_code:
+url_pdf: 'https://doi.org/10.1093/jrsssb/qkag081'
+url_code: 'https://github.com/ZijunGao/Selective-Randomization-Inference-for-Adaptive-Experiments'
 url_dataset:
 url_poster:
 url_project:

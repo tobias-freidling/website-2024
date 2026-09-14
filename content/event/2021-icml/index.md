@@ -25,7 +25,7 @@ tags: []
 
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 #links:
 #  - icon: twitter
@@ -33,10 +33,10 @@ featured: false
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code:
-url_pdf: ''
+url_pdf: 'http://proceedings.mlr.press/v139/freidling21a/freidling21a.pdf'
 url_poster: ''
-url_slides: 'event/2021-riken/riken-aip-presentation.pdf'
-url_video: ''
+url_slides: ''
+url_video: 'https://www.youtube.com/watch?v=rfgdmchF41I'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

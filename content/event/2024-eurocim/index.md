@@ -33,8 +33,8 @@ featured: false
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code:
-url_pdf: ''
-url_poster: 'event/2024-eurocim/poster-freidling.pdf'
+url_pdf: 'https://doi.org/10.1093/jrsssb/qkag081'
+url_poster: ''
 url_slides: ''
 url_video: ''
 

@@ -33,9 +33,9 @@ featured: true
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code:
-url_pdf: ''
+url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2573156'
 url_poster: ''
-url_slides: 'event/2023-ocis/ocis-r2-calculus.pdf'
+url_slides: ''
 url_video: 'https://www.youtube.com/watch?v=j_nKU3hU-wc'
 
 # Markdown Slides (optional).

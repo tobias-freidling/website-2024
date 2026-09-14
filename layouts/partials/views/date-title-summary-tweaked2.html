@@ -1,0 +1,48 @@
+{{ $item := .item }}
+
+<article class="md:grid md:grid-cols-4 md:items-baseline">
+  <div class="md:col-span-3 relative flex flex-col items-start">
+
+    <!-- First line: event title -->
+    {{ with $item.Params.event }}
+      <h2
+        class="relative z-10 text-base font-semibold leading-snug tracking-tight text-zinc-800 dark:text-zinc-100">
+        {{ . }}
+      </h2>
+    {{ end }}
+
+    <!-- Date on small screens -->
+    <time
+      class="md:hidden relative z-10 order-first mb-2 flex items-center pl-1 text-sm leading-snug text-zinc-400 dark:text-zinc-500"
+      datetime="{{ time.Format "2006-01" $item.Date }}">
+      {{ time.Format "Jan 2006" $item.Date }}
+    </time>
+
+    <!-- Second line: location -->
+    {{ with $item.Params.location }}
+      <p
+        class="relative z-10 mt-1 text-base font-normal leading-snug text-zinc-600 dark:text-zinc-400">
+        {{ . }}
+      </p>
+    {{ end }}
+
+    <!-- Third line: talk title -->
+    <p
+      class="relative z-10 mt-1 text-base font-normal leading-snug text-zinc-600 dark:text-zinc-400">
+      {{ $item.Title }}
+    </p>
+
+    <!-- Citation-style resource buttons -->
+    <div class="btn-links relative z-10 mt-1">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+
+  </div>
+
+  <!-- Date on medium and larger screens -->
+  <time
+    class="relative z-10 order-first mt-1 hidden text-sm leading-snug text-zinc-400 dark:text-zinc-500 md:block"
+    datetime="{{ time.Format "2006-01" $item.Date }}">
+    {{ time.Format "Jan 2006" $item.Date }}
+  </time>
+</article>
