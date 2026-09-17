@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/source-themes/</link>
       <atom:link href="http://localhost:1313/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu8711756640465213865.png</url>
       <title>Source Themes</title>
       <link>http://localhost:1313/tags/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Randomization Inference with Concentration Inequalities</title>
+      <link>http://localhost:1313/publication/conc-inq/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conc-inq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Counterfactual Optimization of Policy Interventions: Lexical Ordering and Leapfrogging</title>

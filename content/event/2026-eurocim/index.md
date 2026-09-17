@@ -32,8 +32,8 @@ featured: false
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code:
-url_pdf: ''
+url_code: 
+url_pdf: 'https://arxiv.org/pdf/2609.18586'
 url_poster: ''
 url_slides: ''
 url_video: ''

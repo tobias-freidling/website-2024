@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
 
   - icon: academicons/cv
-    url: uploads/cv-freidling-0826.pdf
+    url: uploads/cv-freidling-0926.pdf
 
   - icon: academicons/google-scholar
     url:  https://scholar.google.com/citations?user=ek2xg6wAAAAJ
