@@ -564,7 +564,7 @@
 
 
 
-&lt;div id=&#34;chart-753849261&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-657489123&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -582,7 +582,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-753849261&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-657489123&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1037,6 +1037,130 @@ Parallel 4   :         des6, after des4, 1d
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/conf-discovery/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Perspectives on Randomness in Statistics</title>
+      <link>http://localhost:1313/math-705/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/math-705/</guid>
+      <description>&lt;p&gt;Welcome to the course website for the EDMA PhD course MATH-705, &lt;strong&gt;Perspectives
+on Randomness in Statistics&lt;/strong&gt;. All relevant information and materials are
+collected and will be updated on this page.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; EPFL, CM1 113&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 10.00 - 11.30&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; tobias [dot] freidling [at] epfl [dot] ch&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;In this weekly course, we read and discuss different papers that examine how
+&lt;em&gt;randomness&lt;/em&gt; is conceptualized in statistics. There are two presentation formats:
+(1) We directly examine the reading material and different people can lead the
+discussion with
+their comments, questions, and opinions; (2) one of the participants starts the
+session with a 20-minute presentation introducing the main points and subsequently
+leading the discussion. See the schedule below for details about the topics and
+presentations. Regardless of the presentation format, participants are expected
+to read the material before the session.&lt;/p&gt;
+&lt;p&gt;Free auditors are always welcome. :)&lt;/p&gt;
+&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Date&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Topic&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Presentation&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sep 23&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Randomness, Philosophically&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reading group&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sep 30&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Randomness, Probabilistically&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reading group&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Oct 07&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;The Bayesian Perspective&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Maxence&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Oct 14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;The Frequentist Perspective&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gellért&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Oct 21&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;No course&lt;/strong&gt; (semester break)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Oct 28&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Finite and Infinite Populations I&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Emi&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nov 04&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;No course&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nov 11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Finite and Infinite Populations II&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gellért&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nov 18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sampling with and without Replacement&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tobias&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nov 25&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Modelling in Survey Statistics&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Maxence&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dec 02&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Finite Populations in Causal Inference&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Emi&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dec 09&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Generalizability and Transportability&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reading group&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dec 16&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;By popular demand&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;reading-materials&#34;&gt;Reading Materials&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Randomness, Philosophically&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stanford Encyclopedia of Philosophy:
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Randomness, Probabilistically&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shafer, G. and Vovk, V. (2006) ‘The Sources of Kolmogorov’s Grundbegriffe’, Statistical Science, 21(1), pp. 70–98.
+
+&lt;/li&gt;
+&lt;li&gt;von Mises, R. (1941) ‘On the Foundations of Probability and Statistics’, The Annals of Mathematical Statistics, 12(2), pp. 191–205.
+
+&lt;/li&gt;
+&lt;li&gt;van Lambalgen, M. (1996) ‘Randomness and foundations of probability: von Mises’ axiomatisation of random sequences’, Statistics, probability and game theory. Institute of Mathematical Statistics, pp. 347–368.
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The remaining material will be added soon&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

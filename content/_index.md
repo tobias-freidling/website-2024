@@ -86,8 +86,7 @@ sections:
         I  have also gathered experience advising students on individual projects. During my PhD, I supervised one
         summer exchange student visiting the University of Cambridge, and at EPFL I supervised two Bachelor theses this far.
 
-        In summer 2026, [Nils Sturma](https://nilssturma.github.io/) and I were project supervisors in the 'Young Researchers in Mathematics Program'
-        held at EPFL's Bernoulli Center. A small group of undergraduate students were invited to come to Lausanne
+        In summer 2026, [Nils Sturma](https://nilssturma.github.io/) and I were project supervisors in the 'Young Researchers in Mathematics Program' held at EPFL's Bernoulli Center. A small group of undergraduate students were invited to come to Lausanne
         for a week and work on their first research project. Nils and I advised the students in the statistics track
         of the programme and we keep working on the project with the students.
 

@@ -16,6 +16,9 @@ main:
   - name: Teaching
     url: /#teaching
     weight: 40
+  - name: Math-705
+    url: /math-705
+    weight: 50
  # - name: Posts
  #   url: /posts
  #   weight: 50
