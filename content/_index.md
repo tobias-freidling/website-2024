@@ -85,16 +85,16 @@ sections:
 
         I  have also gathered experience advising students on individual projects. During my PhD, I supervised one
         summer exchange student visiting the University of Cambridge, and at EPFL I supervised two Bachelor theses this far.
-
-        In summer 2026, [Nils Sturma](https://nilssturma.github.io/) and I were project supervisors in the 'Young Researchers in Mathematics Program' held at EPFL's Bernoulli Center. A small group of undergraduate students were invited to come to Lausanne
+        
+        In summer 2026, [Nils Sturma](https://nilssturma.github.io/)
+        and I were project supervisors in the 'Young Researchers in Mathematics Program' held at EPFL's Bernoulli Center. A small group of undergraduate students were invited to come to Lausanne
         for a week and work on their first research project. Nils and I advised the students in the statistics track
         of the programme and we keep working on the project with the students.
 
         In the autumn semester 2026, I teach a PhD course called 'Perspectives on Randomness in Statistics' at EPFL.
         We investigate different frameworks of conceptualizing randomness
         (frequentist super-population, design-based, Bayesian etc.) and discuss their suitability for specific applications.
-
-
+        The course details can be found in the menu Math-705.
     design:
       css_class: teaching-block
 
