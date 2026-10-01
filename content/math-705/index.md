@@ -77,6 +77,9 @@ Optional reading:
 - de Finetti's contributions: *De Finetti, B. (1992) ‘Foresight: Its Logical Laws, Its Subjective Sources’, in S. Kotz and N.L. Johnson (eds) Breakthroughs in Statistics. New York, NY: Springer New York (Springer Series in Statistics), pp. 134–174.*
 [link](https://doi.org/10.1007/978-1-4612-0919-5_10)
 
+- Model validation under the Bayesian and Frequentist paradigm: *Freedman, D. (1995) ‘Some issues in the foundation of statistics’, Foundations of Science, 1(1), pp. 19–39.*
+[link](https://doi.org/10.1007/BF00208723)
+
 
 **The Frequentist Perspective**
 - An argument for the likelihood principle: *Birnbaum, A. (1962) ‘On the Foundations of Statistical Inference’, Journal of the American Statistical Association, 57(298), pp. 269–306.*
@@ -122,7 +125,59 @@ Optional reading:
 - Theoretical paper on finite population inference: *Pitman, E.J.G. (1937) ‘Significance Tests Which May be Applied to Samples from Any Populations’, Journal of the Royal Statistical Society Series B: Statistical Methodology, 4(1), pp. 119–130.*
 [link](https://doi.org/10.2307/2984124)
 
-**The remaining material will be added in due time.**
+**Sampling with and without Replacement**
+- Distance of Distributions (in excerpts): *Dümbgen, L., Samworth, R.J. and Wellner, J.A. (2021) ‘Bounding distributional errors via density ratios’, Bernoulli, 27(2).*
+[link](https://doi.org/10.3150/20-BEJ1256)
+- Concentration Inequalities (focus on results): *Bardenet, R. and Maillard, O.-A. (2015) ‘Concentration inequalities for sampling without replacement’, Bernoulli, 21(3), pp. 1361–1385.*
+[link](https://doi.org/10.3150/14-BEJ605)
+- Finite population Central Limit Theorems (focus on simple setting): *Li, X. and Ding, P. (2017) ‘General Forms of Finite Population Central Limit Theorems with Applications to Causal Inference’, Journal of the American Statistical Association, 112(520), pp. 1759–1769.*
+[link](https://doi.org/10.1080/01621459.2017.1295865)
+
+**Modelling in Survey Statistics**
+- Emergence of survey statistics and early results: *Smith, T.M.F. (1976) ‘The Foundations of Survey Sampling: A Review’, Royal Statistical Society. Journal. Series A: General, 139(2), pp. 183–195.*
+[link](https://doi.org/10.2307/2345174)
+- Article and discussion about the use of models in survey statistics: *Särndal, C.-E. et al. (1978) ‘Design-Based and Model-Based Inference in Survey Sampling [with Discussion and Reply]’, Scandinavian Journal of Statistics, 5(1), pp. 27–52.*
+[link](https://www.jstor.org/stable/4615682)
+
+Optional reading:
+- Review on sample surveys in the 20th century: *Smith, T.M.F. (2001) ‘Biometrika Centenary: Sample surveys’, Biometrika, 88(1), pp. 167–243.*
+[link](https://doi.org/10.1093/biomet/88.1.167)
+- More modern and partly Bayesian contribution on the modelling debate: *Little, R.J. (2004) ‘To Model or Not To Model? Competing Modes of Inference for Finite Population Sampling’, Journal of the American Statistical Association, 99(466), pp. 546–556.*
+[link](https://doi.org/10.1198/016214504000000467)
+
+**Finite Populations in Causal Inference**
+- Introduction if needed (Chapters 4 to 6): *Imbens, G.W. and Rubin, D.B. (2015) Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction. Cambridge: Cambridge University Press.*
+[link](https://doi.org/10.1017/CBO9781139025751)
+
+- Bridging finite and infinite population inference: *Ding, P., Li, X. and Miratrix, L.W. (2017) ‘Bridging Finite and Super Population Causal Inference’, Journal of Causal Inference, 5(2).*
+[link](https://doi.org/10.1515/jci-2016-0027)
+
+- From sample to population effects: *Miratrix, L.W. et al. (2018) ‘Worth Weighting? How to Think About and Use Weights in Survey Experiments’, Political Analysis, 26(3), pp. 275–291.*
+[link](https://doi.org/10.1017/pan.2018.1)
+
+
+Optional reading:
+- Regression in finite populations: *Abadie, A. et al. (2020) ‘Sampling‐Based versus Design‐Based Uncertainty in Regression Analysis’, Econometrica, 88(1), pp. 265–296.*
+[link](https://doi.org/10.3982/ECTA12675)
+
+- Applied paper that discusses finite vs super-population: *Manski, C.F. and Pepper, J.V. (2018) ‘How Do Right-to-Carry Laws Affect Crime Rates? Coping with Ambiguity Using Bounded-Variation Assumptions’, Review of Economics and Statistics, 100(2), pp. 232–244.*
+[link](https://doi.org/10.1162/REST_a_00689)
+
+
+
+
+**Generalizability and Transportability**
+- Different kinds of deviation of observed and target population: *Egami, N. and Hartman, E. (2023) ‘Elements of External Validity: Framework, Design, and Analysis’, American Political Science Review, 117(3), pp. 1070–1088.*
+[link](https://doi.org/10.1017/S0003055422000880)
+- Application-focused perspective on generalizability in different models: *Berk, R.A. and Freedman, D.A. (2009) ‘Statistical Assumptions as Empirical Commitments’, in Statistical Models and Causal Inference. 1st edn. Edited by D. Collier, J. S. Sekhon, and P. B. Stark. Cambridge University Press, pp. 23–44.*
+[link](https://doi.org/10.1017/CBO9780511815874.004)
+
+
+Optional reading:
+- Less technical overview of external validity: *Findley, M.G., Kikuta, K. and Denly, M. (2021) ‘External Validity’, Annual Review of Political Science, 24(1), pp. 365–393.*
+[link](https://doi.org/10.1146/annurev-polisci-041719-102556)
+
+
 
 
 

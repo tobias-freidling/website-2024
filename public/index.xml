@@ -564,7 +564,7 @@
 
 
 
-&lt;div id=&#34;chart-825739614&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-187243659&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -582,7 +582,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-825739614&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-187243659&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1186,6 +1186,11 @@ to read the material before the session.&lt;/p&gt;
 
 &lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Model validation under the Bayesian and Frequentist paradigm: &lt;em&gt;Freedman, D. (1995) ‘Some issues in the foundation of statistics’, Foundations of Science, 1(1), pp. 19–39.&lt;/em&gt;
+
+&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;The Frequentist Perspective&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1257,7 +1262,82 @@ to read the material before the session.&lt;/p&gt;
 
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;The remaining material will be added in due time.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sampling with and without Replacement&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance of Distributions (in excerpts): &lt;em&gt;Dümbgen, L., Samworth, R.J. and Wellner, J.A. (2021) ‘Bounding distributional errors via density ratios’, Bernoulli, 27(2).&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;li&gt;Concentration Inequalities (focus on results): &lt;em&gt;Bardenet, R. and Maillard, O.-A. (2015) ‘Concentration inequalities for sampling without replacement’, Bernoulli, 21(3), pp. 1361–1385.&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;li&gt;Finite population Central Limit Theorems (focus on simple setting): &lt;em&gt;Li, X. and Ding, P. (2017) ‘General Forms of Finite Population Central Limit Theorems with Applications to Causal Inference’, Journal of the American Statistical Association, 112(520), pp. 1759–1769.&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Modelling in Survey Statistics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emergence of survey statistics and early results: &lt;em&gt;Smith, T.M.F. (1976) ‘The Foundations of Survey Sampling: A Review’, Royal Statistical Society. Journal. Series A: General, 139(2), pp. 183–195.&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;li&gt;Article and discussion about the use of models in survey statistics: &lt;em&gt;Särndal, C.-E. et al. (1978) ‘Design-Based and Model-Based Inference in Survey Sampling [with Discussion and Reply]’, Scandinavian Journal of Statistics, 5(1), pp. 27–52.&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Optional reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review on sample surveys in the 20th century: &lt;em&gt;Smith, T.M.F. (2001) ‘Biometrika Centenary: Sample surveys’, Biometrika, 88(1), pp. 167–243.&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;li&gt;More modern and partly Bayesian contribution on the modelling debate: &lt;em&gt;Little, R.J. (2004) ‘To Model or Not To Model? Competing Modes of Inference for Finite Population Sampling’, Journal of the American Statistical Association, 99(466), pp. 546–556.&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Finite Populations in Causal Inference&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction if needed (Chapters 4 to 6): &lt;em&gt;Imbens, G.W. and Rubin, D.B. (2015) Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction. Cambridge: Cambridge University Press.&lt;/em&gt;
+
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bridging finite and infinite population inference: &lt;em&gt;Ding, P., Li, X. and Miratrix, L.W. (2017) ‘Bridging Finite and Super Population Causal Inference’, Journal of Causal Inference, 5(2).&lt;/em&gt;
+
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;From sample to population effects: &lt;em&gt;Miratrix, L.W. et al. (2018) ‘Worth Weighting? How to Think About and Use Weights in Survey Experiments’, Political Analysis, 26(3), pp. 275–291.&lt;/em&gt;
+
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Optional reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Regression in finite populations: &lt;em&gt;Abadie, A. et al. (2020) ‘Sampling‐Based versus Design‐Based Uncertainty in Regression Analysis’, Econometrica, 88(1), pp. 265–296.&lt;/em&gt;
+
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applied paper that discusses finite vs super-population: &lt;em&gt;Manski, C.F. and Pepper, J.V. (2018) ‘How Do Right-to-Carry Laws Affect Crime Rates? Coping with Ambiguity Using Bounded-Variation Assumptions’, Review of Economics and Statistics, 100(2), pp. 232–244.&lt;/em&gt;
+
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Generalizability and Transportability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Different kinds of deviation of observed and target population: &lt;em&gt;Egami, N. and Hartman, E. (2023) ‘Elements of External Validity: Framework, Design, and Analysis’, American Political Science Review, 117(3), pp. 1070–1088.&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;li&gt;Application-focused perspective on generalizability in different models: &lt;em&gt;Berk, R.A. and Freedman, D.A. (2009) ‘Statistical Assumptions as Empirical Commitments’, in Statistical Models and Causal Inference. 1st edn. Edited by D. Collier, J. S. Sekhon, and P. B. Stark. Cambridge University Press, pp. 23–44.&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Optional reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Less technical overview of external validity: &lt;em&gt;Findley, M.G., Kikuta, K. and Denly, M. (2021) ‘External Validity’, Annual Review of Political Science, 24(1), pp. 365–393.&lt;/em&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
