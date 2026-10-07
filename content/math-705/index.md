@@ -179,5 +179,8 @@ Optional reading:
 
 
 
+**Bonus Material**
+- What is good statistical evidence?: *Chugg, B., Ramdas, A. and Grünwald, P. (2026) ‘E-values as statistical evidence: a comparison to Bayes factors, likelihoods, and p-values’, Synthese, 208(3), p. 130.*
+[link](https://doi.org/10.1007/s11229-026-05779-4)
 
 
